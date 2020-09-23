@@ -1,0 +1,9 @@
+{
+  "name": "ProjetoLer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
